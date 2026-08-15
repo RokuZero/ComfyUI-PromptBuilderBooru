@@ -1,0 +1,422 @@
+{
+    "model": [
+        {
+            "name": "None",
+            "positive": "",
+            "negative": "",
+            "hint": "",
+            "source": ""
+        }
+    ],
+    "lora": [
+        {
+            "name": "None",
+            "override": {
+                "gender": "",
+                "appearance": "",
+                "outfit": "",
+                "pose": "",
+                "action": "",
+                "background": "",
+                "composition": "",
+                "style": ""
+            }
+        }
+    ],
+    "gender": [
+        {
+            "name": "None",
+            "value": ""
+        },
+        {
+            "name": "1girl",
+            "value": "1girl, solo"
+        },
+        {
+            "name": "1boy",
+            "value": "1boy, solo"
+        }
+    ],
+    "eye_color": [
+        {
+            "name": "None",
+            "value": ""
+        },
+        {
+            "name": "Blue",
+            "value": "blue_eyes, detailed_eyes, beautiful_eyes"
+        },
+        {
+            "name": "Green",
+            "value": "green_eyes, detailed_eyes, beautiful_eyes"
+        },
+        {
+            "name": "Red",
+            "value": "red_eyes, detailed_eyes, beautiful_eyes"
+        },
+        {
+            "name": "Purple",
+            "value": "purple_eyes, detailed_eyes, beautiful_eyes"
+        },
+        {
+            "name": "Brown",
+            "value": "brown_eyes, detailed_eyes, beautiful_eyes"
+        },
+        {
+            "name": "Yellow",
+            "value": "yellow_eyes, detailed_eyes, beautiful_eyes"
+        },
+        {
+            "name": "Pink",
+            "value": "pink_eyes, detailed_eyes, beautiful_eyes"
+        },
+        {
+            "name": "Grey",
+            "value": "grey_eyes, detailed_eyes, beautiful_eyes"
+        },
+        {
+            "name": "Heterochromia",
+            "value": "heterochromia, detailed_eyes, beautiful_eyes"
+        }
+    ],
+    "hair_color": [
+        {
+            "name": "None",
+            "value": ""
+        },
+        {
+            "name": "Blonde",
+            "value": "blonde_hair"
+        },
+        {
+            "name": "Black",
+            "value": "black_hair"
+        },
+        {
+            "name": "Brown",
+            "value": "brown_hair"
+        },
+        {
+            "name": "Red",
+            "value": "red_hair"
+        },
+        {
+            "name": "Orange",
+            "value": "orange_hair"
+        },
+        {
+            "name": "Pink",
+            "value": "pink_hair"
+        },
+        {
+            "name": "Purple",
+            "value": "purple_hair"
+        },
+        {
+            "name": "White",
+            "value": "white_hair"
+        },
+        {
+            "name": "Blue",
+            "value": "blue_hair"
+        },
+        {
+            "name": "Green",
+            "value": "green_hair"
+        },
+        {
+            "name": "Grey",
+            "value": "grey_hair"
+        }
+    ],
+    "hair_style": [
+        {
+            "name": "None",
+            "value": ""
+        },
+        {
+            "name": "Short",
+            "value": "short_hair"
+        },
+        {
+            "name": "Long",
+            "value": "long_hair"
+        },
+        {
+            "name": "Bob Cut",
+            "value": "bob_cut"
+        },
+        {
+            "name": "Ponytail",
+            "value": "ponytail"
+        },
+        {
+            "name": "Twin Tails",
+            "value": "twin_tails"
+        },
+        {
+            "name": "Curly",
+            "value": "curly_hair"
+        }
+    ],
+    "build": [
+        {
+            "name": "None",
+            "value": ""
+        },
+        {
+            "name": "Curvy",
+            "value": "curvy"
+        },
+        {
+            "name": "Chubby",
+            "value": "chubby"
+        },
+        {
+            "name": "Small Breasts",
+            "value": "small_breasts"
+        },
+        {
+            "name": "Medium Breasts",
+            "value": "medium_breasts"
+        },
+        {
+            "name": "Large Breasts",
+            "value": "large_breasts"
+        }
+    ],
+    "feature": [
+        {
+            "name": "None",
+            "value": ""
+        },
+        {
+            "name": "Freckles",
+            "value": "freckles"
+        },
+        {
+            "name": "Blush",
+            "value": "blush"
+        },
+        {
+            "name": "Scar",
+            "value": "scar"
+        },
+        {
+            "name": "Glasses",
+            "value": "glasses"
+        },
+        {
+            "name": "Neko Ears",
+            "value": "cat_ears"
+        },
+        {
+            "name": "Fox Ears",
+            "value": "fox_ears"
+        },
+        {
+            "name": "Cat Ear Hairband",
+            "value": "cat_ear_hairband"
+        }
+    ],
+    "outfit": [
+        {
+            "name": "None",
+            "value": ""
+        },
+        {
+            "name": "School Uniform",
+            "value": "school_uniform, pleated_skirt"
+        },
+        {
+            "name": "Casual",
+            "value": "casual, t-shirt, jeans"
+        },
+        {
+            "name": "Gothic Lolita",
+            "value": "gothic_lolita, black_dress, lace_trim"
+        },
+        {
+            "name": "Kimono",
+            "value": "kimono, japanese_clothing"
+        },
+        {
+            "name": "One-piece Swimsuit",
+            "value": "one-piece_swimsuit"
+        },
+        {
+            "name": "Maid",
+            "value": "maid, maid_uniform"
+        }
+    ],
+    "pose": [
+        {
+            "name": "None",
+            "value": ""
+        },
+        {
+            "name": "Standing",
+            "value": "standing"
+        },
+        {
+            "name": "Sitting",
+            "value": "sitting"
+        },
+        {
+            "name": "Kneeling",
+            "value": "kneeling"
+        },
+        {
+            "name": "Lying",
+            "value": "lying"
+        },
+        {
+            "name": "Crossed Legs",
+            "value": "crossed_legs"
+        },
+        {
+            "name": "Looking Back",
+            "value": "looking_back"
+        }
+    ],
+    "action": [
+        {
+            "name": "None",
+            "value": ""
+        },
+        {
+            "name": "Hand on Hip",
+            "value": "hand_on_hip"
+        },
+        {
+            "name": "Hands Behind Back",
+            "value": "hands_behind_back"
+        },
+        {
+            "name": "Finger on Chin",
+            "value": "finger_on_chin"
+        },
+        {
+            "name": "Peace Sign",
+            "value": "peace_sign"
+        },
+        {
+            "name": "Winking",
+            "value": "winking"
+        },
+        {
+            "name": "Smiling",
+            "value": "smiling"
+        },
+        {
+            "name": "Blushing",
+            "value": "blushing"
+        },
+        {
+            "name": "Crying",
+            "value": "crying"
+        },
+        {
+            "name": "Angry",
+            "value": "angry"
+        }
+    ],
+    "background": [
+        {
+            "name": "None",
+            "value": ""
+        },
+        {
+            "name": "Simple Background",
+            "value": "simple_background"
+        },
+        {
+            "name": "Simple Gradient",
+            "value": "gradient_background"
+        },
+        {
+            "name": "Bedroom",
+            "value": "bedroom"
+        },
+        {
+            "name": "Classroom",
+            "value": "classroom"
+        },
+        {
+            "name": "Street",
+            "value": "street"
+        },
+        {
+            "name": "Forest",
+            "value": "forest"
+        },
+        {
+            "name": "Beach",
+            "value": "beach"
+        }
+    ],
+    "composition": [
+        {
+            "name": "None",
+            "value": ""
+        },
+        {
+            "name": "Portrait",
+            "value": "portrait, upper_body"
+        },
+        {
+            "name": "Close-up",
+            "value": "close-up, face_focus"
+        },
+        {
+            "name": "Full Body",
+            "value": "full_body"
+        },
+        {
+            "name": "Half Body",
+            "value": "upper_body"
+        }
+    ],
+    "style": [
+        {
+            "name": "None",
+            "value": ""
+        },
+        {
+            "name": "Anime",
+            "value": "anime"
+        },
+        {
+            "name": "Photorealistic",
+            "value": "photorealistic"
+        },
+        {
+            "name": "Sketch",
+            "value": "sketch"
+        },
+        {
+            "name": "3D Render",
+            "value": "3d_render, cgi"
+        },
+        {
+            "name": "Pixel Art",
+            "value": "pixel_art"
+        },
+        {
+            "name": "1970s (Style)",
+            "value": "1970s_(style)"
+        },
+        {
+            "name": "1980s (Style)",
+            "value": "1980s_(style)"
+        },
+        {
+            "name": "1990s (Style)",
+            "value": "1990s_(style)"
+        },
+        {
+            "name": "2000s (Style)",
+            "value": "2000s_(style)"
+        }
+    ]
+}
